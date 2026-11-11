@@ -1,0 +1,8 @@
+{
+  "name": "prompt-master",
+  "version": "0.1.0",
+  "description": "One-click button above the prompt box that rewrites your rough draft into a clearer, stronger prompt.",
+  "author": { "name": "Sheldon Rodriguez" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
